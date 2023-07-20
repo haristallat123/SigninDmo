@@ -1,0 +1,20 @@
+PODS:
+  - MarqueeLabel (4.3.1)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - MarqueeLabel
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - MarqueeLabel
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  MarqueeLabel: da4b9cf619fe70c75d7bab4580b0b4a0b868aa6b
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 1de35aa9f74c7ebe4518e48266f4b28cc2ba65cd
+
+COCOAPODS: 1.12.1
